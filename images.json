@@ -1,10 +1,12 @@
 [
   {
-    "title": "1",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1.png",
-      },
-   {
-    "title": "2",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2.png",
-      }
+    "title": "Naruto Sketch",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_sketch.png",
+    "colored_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_colored.jpg"
+  },
+  {
+    "title": "Image 2",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2_sketch.png",
+    "colored_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2_colored.jpg"
+  }
 ]
