@@ -1,11 +1,6 @@
 [
   {
-    "title": "Image 1",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_sketch.png"
-     "colored_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_colored.png"
-  },
-  {
-    "title": "Image 2",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2.png"
-  }
+    "title": "Naruto Reveal",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_sketch.png",
+    "colored_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1_colored.jpg"  }
 ]
