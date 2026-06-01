@@ -1,10 +1,32 @@
 [
   {
-    "title": "Naruto Sketch",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1.png"
+    "title": "Image 1",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/1.png",
+    "price": 0
   },
   {
     "title": "Image 2",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2.png"
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/2.png",
+    "price": 0
+  },
+  {
+    "title": "Image 3",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/3.png",
+    "price": 100
+  },
+  {
+    "title": "Image 4",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/4.png",
+    "price": 120
+  },
+  {
+    "title": "Image 5",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/5.png",
+    "price": 150
+  },
+  {
+    "title": "Image 6",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/6.png",
+    "price": 160
   }
 ]
