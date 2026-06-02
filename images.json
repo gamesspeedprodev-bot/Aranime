@@ -28,5 +28,20 @@
     "title": "Image 6",
     "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/6.png",
     "price": 160
+  },
+  {
+    "title": "Image 7",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/7.png",
+    "price": 100
+  },
+  {
+    "title": "Image 8",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/8.png",
+    "price": 120
+  },
+  {
+    "title": "Image 9",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/Aranime/main/aanime/9.png",
+    "price": 140
   }
 ]
